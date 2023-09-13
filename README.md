@@ -35,7 +35,7 @@ To create your own Zelda Chest, you will need the following materials:
 
 ## RFID sensor module
 
-![MFRC522](assets/board.jpeg =250x)
+![MFRC522](assets/board.jpeg | width=100)
 
 Finished piece used for RFID detection, made to work with first key that is scanned.
 
