@@ -33,11 +33,11 @@ To create your own Zelda Chest, you will need the following materials:
 - Small hinges and screws (for the chest lid)
 - Soldering iron and solder (optional, for securing connections)
 
-## Circuit Diagram
+## RFID sensor module
 
-![Circuit Diagram](circuit_diagram.png)
+![MFRC522](board.jpeg)
 
-The circuit diagram illustrates how to connect the components for the Zelda Chest project. Make sure to connect the wires and components as shown in the diagram to ensure proper functionality.
+Finished piece used for RFID detection, made to work with first key that is scanned.
 
 ## Installation
 
