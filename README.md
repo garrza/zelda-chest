@@ -46,7 +46,7 @@ To set up the Zelda Chest, follow these steps:
 1. Clone this repository to your local computer:
 
    ```
-   git clone https://github.com/yourusername/zelda-chest-arduino.git
+   git clone https://github.com/garrza/zelda-chest-arduino.git
    ```
 
 2. Upload the Arduino sketch (`zelda_chest.ino`) to your Arduino board using the Arduino IDE.
