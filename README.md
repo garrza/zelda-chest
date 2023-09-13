@@ -1,6 +1,6 @@
 # Zelda Chest Arduino Project
 
-![Zelda Chest]([zelda_chest.jpg](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0f/MM3D_Chest.png/revision/latest/scale-to-width-down/320?cb=20201125233413))
+![Zelda Chest](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0f/MM3D_Chest.png/revision/latest/scale-to-width-down/320?cb=20201125233413)
 
 This repository contains the code and documentation for a Zelda-themed chest that I created for my girlfriend. The chest uses an Arduino, RFID sensor, speakers, and a servo motor to replicate the iconic chest-opening experience from The Legend of Zelda video game series.
 
