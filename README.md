@@ -1,10 +1,11 @@
 # Zelda Chest Arduino Project
 
-![Zelda Chest]([https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0f/MM3D_Chest.png/revision/latest/scale-to-width-down/320?cb=20201125233413](https://www.google.com/url?sa=i&url=https%3A%2F%2Fzelda.fandom.com%2Fwiki%2FTreasure_Chest&psig=AOvVaw2sMlTGmzmei2nyxwORsFaB&ust=1694722918868000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMj2sv60qIEDFQAAAAAdAAAAABAF))
+![Zelda Chest](assets/chest.png)
 
 This repository contains the code and documentation for a Zelda-themed chest that I created for my girlfriend. The chest uses an Arduino, RFID sensor, speakers, and a servo motor to replicate the iconic chest-opening experience from The Legend of Zelda video game series.
 
 ## Table of Contents
+
 - [Project Overview](#project-overview)
 - [Materials](#materials)
 - [Circuit Diagram](#circuit-diagram)
@@ -20,6 +21,7 @@ The Zelda Chest project is a fun and creative way to surprise your loved one wit
 ## Materials
 
 To create your own Zelda Chest, you will need the following materials:
+
 - Arduino Uno or similar microcontroller
 - RFID sensor module (e.g., MFRC522)
 - Servo motor
