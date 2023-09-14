@@ -81,6 +81,6 @@ I would like to thank the Arduino community for their valuable resources and sup
 
 This project is open-source under the [MIT License](LICENSE). Feel free to modify and share it as you wish, and don't forget to share your Zelda Chest creations with the world!
 
-If you have any questions or need assistance with this project, feel free to contact me at your@email.com.
+If you have any questions or need assistance with this project, feel free to contact me at garza.ramirov@gmail.com.
 
 Happy crafting and may your Zelda Chest bring joy and adventure to your loved one's day!
