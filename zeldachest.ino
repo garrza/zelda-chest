@@ -70,15 +70,6 @@ void loop()
     rfid.PCD_StopCrypto1(); // Stop encryption on PCD
 }
 
-/*******************************************************************
-    Plays the Zelda Chest Jingle on startup using
-    a passive speaker. Runs on an attiny85
-
-    Originally written by ianklatzco:
-    https://gist.github.com/ianklatzco/9127560
-
-*******************************************************************/
-
 int soundSplit = 6;
 
 char notes[] = "gabygabyxzCDxzCDabywabywzCDEzCDEbywFCDEqywFGDEqi        azbC"; // a space represents a restsoundSplit
